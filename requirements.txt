@@ -1,5 +1,5 @@
 django==3.0.7
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 PyJWT==1.7.1
 jwcrypto==0.6.0
 python-decouple==3.1

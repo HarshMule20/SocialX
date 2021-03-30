@@ -1,4 +1,4 @@
-django==3.0.7
+django==3.0.12
 djangorestframework==3.10.3
 PyJWT==1.7.1
 jwcrypto==0.6.0
